@@ -755,6 +755,12 @@ textarea {
 .list-unstiled .fa-instagram {
     background: #097fc3 none repeat scroll 0 0;
 }
+.list-unstiled .fa-github {
+    background: #212529 none repeat scroll 0 0;
+}
+.list-unstiled .fa-stack-overflow {
+    background: #f48025 none repeat scroll 0 0;
+}
 .list-unstiled .fa-skype {
     background: #00aff0 none repeat scroll 0 0;
 }
